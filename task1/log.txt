@@ -1,0 +1,24 @@
+commit 25bebd10a75b0940d9fee1e67c84f97f2306c650 (HEAD -> master)
+Author: AlexeyMikushev <alexei.mikushev@gmail.com>
+Date:   Fri Feb 14 18:41:19 2020 +0300
+
+    add task1/status.txt
+
+commit 81ad4bef06b171efb7f70cfaa4da47f13a95fad2
+Author: AlexeyMikushev <alexei.mikushev@gmail.com>
+Date:   Fri Feb 14 18:37:59 2020 +0300
+
+    add.gitignore
+
+commit bfaaef621c4aed2012748cd82f20662355d0c777
+Author: AlexeyMikushev <alexei.mikushev@gmail.com>
+Date:   Fri Feb 14 18:24:03 2020 +0300
+
+    add status.txt
+
+commit 9c0513a463a015607a17e2883da46ccfc19600ce
+Author: AlexeyMikushev <alexei.mikushev@gmail.com>
+Date:   Fri Feb 14 18:10:00 2020 +0300
+
+    add.gitignore
+
